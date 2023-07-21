@@ -15,6 +15,7 @@ images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
 #contactFormAction = "https://formspree.io/f/your-form-hash-here"
+#contactFormReCaptcha = "your-site-key-here"
 # Google Fonts
 #googleFonts = ["Indie+Flower", "Roboto:ital,wght@0,100;0,400;0,700;1,400"]
 # Google Site Verify
@@ -46,6 +47,7 @@ reversepagetitle = true # When set to 'true', the Window Title will be reversed 
 [umami]
 # serverURL = "example.com"
 # id = "94db1cb1-74f4-4a40-ad6c-962362670409"
+# trackerScriptName = "mycustomscriptname.js"
 
 ## Math settings
 [math]
